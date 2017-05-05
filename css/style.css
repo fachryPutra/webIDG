@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body {
+	background-image:url('img/feat.png');
+}
+
+.container {
+	background-color: #965e54;
+	font-family: 'Oswald', sans-serif;
+
+}
+
+.container .konten {
+	font-size:20px;
+}
